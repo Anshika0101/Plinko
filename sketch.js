@@ -21,7 +21,7 @@ function setup() {
 	world = engine.world;
 
 	//Create the Bodies Here.
-	ground = new Ground(400,690,800,20);
+	ground = new Ground(350,690,800,20);
 
   
   for (var i = 0; i<=width; i= i+80) {
